@@ -1,1 +1,1 @@
-## Experiment name
+## Franck-Hertz Experiment
