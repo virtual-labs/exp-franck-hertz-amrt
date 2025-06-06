@@ -1,39 +1,73 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "What was the primary conclusion drawn from the Franck-Hertz experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Electrons have mass",
+        "b": "Electrons emit electromagnetic radiation",
+        "c": "Atoms have quantized energy levels",
+        "d": "Electrons travel in circular orbits"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Mass of electron was known before; not the focus of this experiment.",
+        "b": "Radiation was not the direct observation.",
+        "c": "Correct. The experiment demonstrated discrete energy levels in atoms.",
+        "d": "This is a feature of Bohr's model but not tested in the Franck-Hertz setup."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In the Franck-Hertz experiment with mercury, what is observed at 4.9 eV accelerating voltage?",
+      "answers": {
+        "a": "The electron current remains constant",
+        "b": "Electrons are completely absorbed by mercury atoms",
+        "c": "The current sharply drops due to inelastic collisions",
+        "d": "The tube glows with visible light"
+      },
+      "explanations": {
+        "a": "Current increases until inelastic collision occurs.",
+        "b": "Electrons are not absorbed but lose energy.",
+        "c": "Correct. Inelastic collisions reduce electron energy and current.",
+        "d": "Mercury does not emit visible light like neon."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the function of the mesh grid in the Franck-Hertz apparatus?",
+      "answers": {
+        "a": "To emit electrons",
+        "b": "To accelerate electrons toward the collector",
+        "c": "To detect excited atoms",
+        "d": "To cool the electrons after collisions"
+      },
+      "explanations": {
+        "a": "Electrons are emitted by the cathode.",
+        "b": "Correct. A positive potential accelerates electrons toward the collector.",
+        "c": "No detection mechanism in the grid.",
+        "d": "Cooling is not a function of the grid."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Why does the neon-filled Franck-Hertz tube show a visible glow during the experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Due to elastic collisions between electrons and neon",
+        "b": "Due to ionization of neon",
+        "c": "Due to de-excitation of neon atoms releasing visible light",
+        "d": "Because of heating by thermionic emission"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Elastic collisions do not transfer enough energy for light emission.",
+        "b": "Ionization leads to different phenomena than glowing.",
+        "c": "Correct. Excited neon atoms de-excite and emit visible photons.",
+        "d": "Thermionic emission occurs at the cathode, not related to light glow."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     }
   ]
 }
