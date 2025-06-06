@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The specific charge of cathode rays",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Depends on the applied voltage",
+        "b": "Depends on the nature of the gas in the tube",
+        "c": "Is a constant",
+        "d": "Depends on the metal used for cathode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The specific charge does not depend on applied voltage.",
+        "b": "Cathode rays are the same regardless of the gas.",
+        "c": "Correct. Specific charge (e/m) of cathode rays is constant.",
+        "d": "The cathode material does not affect the specific charge."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Cathode rays are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Fast moving neutrons",
+        "b": "Fast moving protons",
+        "c": "Fast moving electrons",
+        "d": "Electromagnetic waves"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Neutrons have no charge, unlike cathode rays.",
+        "b": "Protons move in the opposite direction in electric fields.",
+        "c": "Correct. Cathode rays consist of electrons.",
+        "d": "They are particles, not EM waves."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
