@@ -1,7 +1,7 @@
 ### Theory
 
 
-<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;">Schemtic representation of Franck-Hertz Apparatus</p></div>
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;">Schematic representation of Franck-Hertz Apparatus</p></div>
 
 
 James Franck and Gustav Hertz conducted an experiment in 1914, which demonstrated the existence of excited states in mercury atoms. It confirms the prediction of quantum theory that electrons occupy only discrete, quantized energy states. This experiment supports Bohr model of atom. For this great invention they have been awarded Nobel Prize in Physics in the year 1925.
@@ -14,7 +14,7 @@ With the help of thermionic emission, electrons are emitted by a heated cathode,
 
  
 
-As long as the electron collision is elastic, the electrons will not lose energy on colliding with gas molecules in tube. As the accelerating potential increases, the current also increases. But as the accelerating potential reaches a particular value, (4.9eV for mercury, 19eV for neon), each electron posses that much of potential and now the collision become inelastic. As a result, the energy level of electron bound to the atom is raised. Now the electron almost loses its energy, and measured current drops.
+As long as the electron collision is elastic, the electrons will not lose energy on colliding with gas molecules in the tube. As the accelerating potential increases, the current also increases. But as the accelerating potential reaches a particular value, (4.9eV for mercury, 19eV for neon), each electron possesses that much of potential and now the collision becomes inelastic. As a result, the energy level of an electron bound to the atom is raised. Now the electron almost loses its energy, and measured current drops.
 
 
  ### Franck-Hertz Data for Mercury
